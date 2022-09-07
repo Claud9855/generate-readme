@@ -19,7 +19,7 @@ click on [link](https://drive.google.com/file/d/1zDLRvKtiUwd2T03_hIpnGU7p_GQ15Wj
 - Then a series of prompts will appear to the console and when all prompts are answered a readme file is generated
 ![image](https://user-images.githubusercontent.com/37052240/188987163-241eb97f-d101-4da1-8b99-8b73a799fef5.png)
 
--How a generated readme file look on visual studio code
+- How a generated readme file look on visual studio code
 ![image](https://user-images.githubusercontent.com/37052240/188987833-0b95cca3-73e3-412b-a6da-72791aa1b34b.png)
 
 
